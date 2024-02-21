@@ -1,3 +1,3 @@
-[submodule "flypig_base_core"]
-	path = flypig_base_core
-	url = https://github.com/FlyPigBase/fp_base_core.git
+[submodule "fp_base_core"]
+	path = fp_base_core
+	url = git@github.com:FlyPigBase/fp_base_core.git
